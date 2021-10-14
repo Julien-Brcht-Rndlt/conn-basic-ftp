@@ -1,0 +1,15 @@
+{
+  "name": "conn-basic-ftp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inded.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-ftp": "^4.6.6",
+    "dotenv": "^10.0.0"
+  }
+}
